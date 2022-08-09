@@ -1,0 +1,76 @@
+{
+  "medicine": [
+    {
+      "id": 896,
+      "name": "DDG",
+      "price": "789",
+      "quantity": "78",
+      "expiry": "7899"
+    },
+    {
+      "id": 865,
+      "name": "hbb",
+      "price": "980908",
+      "quantity": "89",
+      "expiry": "809"
+    }
+  ],
+  "Patient": [
+    {
+      "id": 609,
+      "name": "nenu kalathiya",
+      "gender": "female",
+      "phone": "323546",
+      "age": "516",
+      "date": "323"
+    },
+    {
+      "id": 990,
+      "name": "KN",
+      "gender": "male",
+      "phone": "NKNM",
+      "age": "544",
+      "date": "516"
+    }
+  ],
+  "doctor": [
+    {
+      "id": 1,
+      "name": "Dr.Swati",
+      "salary": " 10000000000000",
+      "designation": "Dermatologists",
+      "gender": "male"
+    },
+    {
+      "id": 2,
+      "name": "Dr.Jeni",
+      "salary": " 2.5 lakh",
+      "designation": "Gynecologist",
+      "gender": "female"
+    },
+    {
+      "id": 3,
+      "name": "Dr.Nenu",
+      "salary": " 2 lakh",
+      "designation": "Cardiologist",
+      "gender": "female"
+    },
+    {
+      "id": 4,
+      "name": "Dr.Foru",
+      "salary": " 1.7 lakh",
+      "designation": "General Surgeon",
+      "gender": "female"
+    },
+    {
+      "id": 5,
+      "name": "Dr.Neha",
+      "salary": " 2.7 lakh",
+      "designation": "General Physicians",
+      "gender": "female"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

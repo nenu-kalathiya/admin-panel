@@ -83,7 +83,9 @@ export default function Layout({children}) {
 
   const listData = [
     {label:'Medicine' ,to:'/Medicine' ,icon:<MedicalServicesIcon/>},
-    {label:'Patients' ,to:'/Patients' ,icon:<PersonIcon/>}
+    {label:'Patient' ,to:'/Patient' ,icon:<PersonIcon/>},
+    {label:'Counter' ,to:'/Counter' ,icon:<PersonIcon/>},
+    {label:'Doctor' ,to:'/Doctor' ,icon:<PersonIcon/>}
   ]
 
   return (

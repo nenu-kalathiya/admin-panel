@@ -1,0 +1,47 @@
+
+export const INCREMENT_COUNTER = 'INCREMENT_COUNTER'
+export const DECREMENT_COUNTER = 'DECREMENT_COUNTER'
+
+// medicine
+export const MEDICINE_GETDATA = 'MEDICINE_GETDATA';
+
+export const MEDICINE_LOADING = 'MEDICINE_LOADING';
+
+export const MEDICINE_ERROR = 'MEDICINE_ERROR';
+
+export const ADD_MEDICINE = 'ADD_MEDICINE';
+
+export const DELETE_MEDICINE = 'DELETE_MEDICINE';
+
+export const UPDATE_MEDICINE = "UPDATE_MEDICINE";
+
+// patients
+export const PATIENT_GETDATA = 'PATIENT_GETDATA';
+
+export const PATIENT_LOADING = 'PATIENT_LOADING';
+
+export const PATIENT_ERROR = 'PATIENT_ERROR';
+
+export const ADD_PATIENT = 'ADD_PATIENT';
+
+export const DELETE_PATIENT = 'DELETE_PATIENT';
+
+export const UPDATE_PATIENT = "UPDATE_PATIENT";
+
+// doctor
+export const DOCTOR_GETDATA = 'DOCTOR_GETDATA';
+
+export const DOCTOR_LOADING = 'DOCTOR_LOADING';
+
+export const DOCTOR_ERROR = 'DOCTOR_ERROR';
+
+export const ADD_DOCTOR = 'ADD_DOCTOR';
+
+export const DELETE_DOCTOR = 'DELETE_DOCTOR';
+
+export const UPDATE_DOCTOR = "UPDATE_DOCTOR";
+
+
+
+
+
